@@ -1,0 +1,8 @@
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+ 
+----------------------------------------------------------------------------------
+libusb
+https://libusb.info/
+----------------------------------------------------------------------------------
+libusb is licensed under the GNU Lesser General Public License version 2.1
+Full license text at https://www.gnu.org/licenses/lgpl-2.1.html
